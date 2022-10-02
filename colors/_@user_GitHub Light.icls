@@ -1,9 +1,9 @@
 <scheme name="_@user_GitHub Light" version="142" parent_scheme="Default">
   <metaInfo>
-    <property name="created">2022-10-02T15:20:11</property>
+    <property name="created">2022-10-02T14:56:11</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2021.3.1.16</property>
-    <property name="modified">2022-10-02T15:22:17</property>
+    <property name="modified">2022-10-02T15:00:29</property>
     <property name="originalScheme">GitHub Light</property>
   </metaInfo>
   <colors>
@@ -248,7 +248,7 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="CUSTOM_MULTI_LINE_COMMENT_ATTRIBUTES" baseAttributes="DEFAULT_BLOCK_COMMENT" />
+    <option name="CUSTOM_MULTI_LINE_COMMENT_ATTRIBUTES" baseAttributes="" />
     <option name="DEFAULT_ATTRIBUTE">
       <value>
         <option name="FOREGROUND" value="5cc5" />

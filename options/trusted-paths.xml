@@ -1,0 +1,17 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/Documents/android-studio/IF31" value="true" />
+        <entry key="$USER_HOME$/Documents/vscode/Test" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="Trusted.Paths.Settings">
+    <option name="TRUSTED_PATHS">
+      <list>
+        <option value="$USER_HOME$/Documents/android-studio" />
+      </list>
+    </option>
+  </component>
+</application>

@@ -1,0 +1,128 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="bookmarks">
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/README.md" />
+              <entry key="line" value="0" />
+            </attributes>
+            <option name="description" value="## Getting Started" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+        </option>
+        <option name="name" value="Test" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Test" type="462c0819:PsiDirectoryNode" />
+              <item name="bin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Pull Requests" order="4" />
+      <window_info id="Bookmarks" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" weight="0.1953125" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Problems View" order="5" />
+      <window_info anchor="bottom" id="Logcat" order="6" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="App Inspection" order="8" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="clangd" order="11" />
+      <window_info anchor="bottom" id="Services" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="Layout Validation" order="0" />
+      <window_info anchor="right" id="Assistant" order="1" visible="true" weight="0.33023775" />
+      <window_info active="true" anchor="right" auto_hide="true" x="435" y="124" width="403" height="459" id="Android Emulator" order="2" side_tool="true" type="WINDOWED" weight="0.397497" />
+      <window_info active="true" anchor="right" x="120" y="201" width="1130" height="466" id="Device Manager" order="3" type="WINDOWED" weight="0.329559" />
+      <window_info anchor="right" id="Device File Explorer" order="4" side_tool="true" weight="0.32979503" />
+      <window_info anchor="right" id="Assistant:" order="5" visible="true" weight="0.32979503" />
+    </layout>
+    <recentWindows>
+      <value>Project</value>
+      <value>Assistant:</value>
+      <value>Event Log</value>
+      <value>Device Manager</value>
+      <value>Android Emulator</value>
+      <value>Device File Explorer</value>
+      <value>Assistant</value>
+    </recentWindows>
+  </component>
+  <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" />
+  <component name="WindowStateProjectService">
+    <state x="461" y="144" width="424" height="519" key="FileChooserDialogImpl" timestamp="1664692908951">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="461" y="144" width="424" height="519" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1664692908951" />
+    <state x="0" y="27" width="992" height="737" key="SettingsEditor" timestamp="1660638625292">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="0" y="27" width="992" height="737" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1660638625292" />
+    <state width="498" height="360" key="SwitcherDM" timestamp="1664692575726">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="498" height="360" key="SwitcherDM/0.27.1366.741@0.27.1366.741" timestamp="1664692575726" />
+    <state x="346" y="82" width="672" height="685" key="search.everywhere.popup" timestamp="1664692568551">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="346" y="82" width="672" height="685" key="search.everywhere.popup/0.27.1366.741@0.27.1366.741" timestamp="1664692568551" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>

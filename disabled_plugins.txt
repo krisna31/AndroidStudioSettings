@@ -1,0 +1,6 @@
+com.codota.csp.intellij
+com.github.copilot
+com.tabnine.TabNine
+https://github.com/DUNNIK
+org.nik.presentation-assistant
+some.awesome

@@ -1,0 +1,190 @@
+<application>
+  <component name="DynamicPluginEnabler">
+    <trackers>
+      <map>
+        <entry key="27vdL0Wuami8Dn08XQpkoO3C4GT">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2FZHvdkzdEIYefnCbNzWoqEIQOO">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2FZINIzN6iN94Wyr3lzdy56yYrJ">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
+  <component name="EduSettings">
+    <option name="javaUiLibrary" value="Swing" />
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontScale" value="1.0" />
+    <option name="fontSize" value="12" />
+  </component>
+  <component name="ProjectPluginTrackerManager">
+    <trackers>
+      <map>
+        <entry key="27vdL0Wuami8Dn08XQpkoO3C4GT">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="Default (Template) Project">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="AFTER.DISTRACTION.MODE.ARE_GUTTER_ICONS_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.ARE_LINE_NUMBERS_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT" value="0" />
+    <property name="AFTER.DISTRACTION.MODE.HIDE_TOOL_STRIPES" value="true" />
+    <property name="AFTER.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_INDENT_GUIDES_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_RIGHT_MARGIN_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_WHITESPACES_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_BREADCRUMBS" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_MAIN_TOOLBAR" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_NAVIGATION_BAR" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_NEW_MAIN_TOOLBAR" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_STATUS_BAR" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Layout Inspector.PROPERTIES.AUTO_HIDE" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Layout Inspector.PROPERTIES.LEFT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Layout Inspector.PROPERTIES.MINIMIZED" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Layout Inspector.PROPERTIES.SPLIT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Layout Inspector.TOOL_ORDER" value="TREE,PROPERTIES" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Layout Inspector.TREE.AUTO_HIDE" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Layout Inspector.TREE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Layout Inspector.TREE.MINIMIZED" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Layout Inspector.TREE.SPLIT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.FULL.AUTO_HIDE" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.FULL.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.FULL.MINIMIZED" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.FULL.SPLIT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.SPLIT.AUTO_HIDE" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.SPLIT.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.SPLIT.MINIMIZED" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.SPLIT.SPLIT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.FULL.AUTO_HIDE" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.FULL.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.FULL.MINIMIZED" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.FULL.SPLIT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.SPLIT.AUTO_HIDE" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.SPLIT.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.SPLIT.MINIMIZED" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.SPLIT.SPLIT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.FULL.AUTO_HIDE" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.FULL.LEFT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.FULL.MINIMIZED" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.FULL.SPLIT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.SPLIT.AUTO_HIDE" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.SPLIT.LEFT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.SPLIT.MINIMIZED" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.SPLIT.SPLIT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.TOOL_ORDER" value="PALETTE,PROPERTIES,COMPONENT_TREE" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Visualization.TOOL_ORDER" value="" />
+    <property name="ATTACHED_TOOL_WINDOW.Layout Inspector.TOOL_ORDER" value="TREE,PROPERTIES" />
+    <property name="ATTACHED_TOOL_WINDOW.Layout Inspector.TREE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.COMPONENT_TREE.FULL.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.COMPONENT_TREE.FULL.SPLIT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.COMPONENT_TREE.SPLIT.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.COMPONENT_TREE.SPLIT.MINIMIZED" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.COMPONENT_TREE.SPLIT.SPLIT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.PALETTE.FULL.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.PALETTE.SPLIT.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.PALETTE.SPLIT.MINIMIZED" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.PROPERTIES.SPLIT.MINIMIZED" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.TOOL_ORDER" value="PALETTE,PROPERTIES,COMPONENT_TREE" />
+    <property name="ATTACHED_TOOL_WINDOW.Visualization.TOOL_ORDER" value="" />
+    <property name="AndroidInitConfigurator.V1" value="true" />
+    <property name="AndroidInitConfigurator.V3" value="true" />
+    <property name="AndroidInitConfigurator.V5" value="true" />
+    <property name="AndroidPlatformName" value="Android API 32 Platform" />
+    <property name="BEFORE.DISTRACTION.MODE.ARE_GUTTER_ICONS_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.ARE_LINE_NUMBERS_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT" value="1" />
+    <property name="BEFORE.DISTRACTION.MODE.HIDE_TOOL_STRIPES" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_INDENT_GUIDES_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_RIGHT_MARGIN_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_WHITESPACES_SHOWN" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_BREADCRUMBS" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_MAIN_TOOLBAR" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_NAVIGATION_BAR" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_NEW_MAIN_TOOLBAR" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_STATUS_BAR" value="true" />
+    <property name="BackgroundImagesFolder" value="" />
+    <property name="BackgroundImagesInterval" value="1" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.60580206" />
+    <property name="Edu.CourseCreator.Enabled" value="false" />
+    <property name="Educational.recentCoursesFilled" value="true" />
+    <property name="Educational.stepikOAuthReset" value="true" />
+    <property name="FileColorsForProjectViewEnabled" value="true" />
+    <property name="FileColorsForTabsEnabled" value="true" />
+    <property name="IdeErrorsDialog.LAST_OK_ACTION" value="REPORT_AND_CLEAR_ALL" />
+    <property name="InstalledPluginsSearchHistory" value="tab&#10;ta&#10;t&#10;tabni&#10;tabn" />
+    <property name="KEYMAP" value="help" />
+    <property name="LayoutCode.codeCleanup" value="true" />
+    <property name="LayoutCode.optimizeImports" value="true" />
+    <property name="LayoutCode.processChangedText" value="true" />
+    <property name="LayoutCode.rearrangeEntries" value="true" />
+    <property name="MarketplacePluginsSearchHistory" value="tabnine&#10;ai&#10;captain&#10;captaio&#10;captai" />
+    <property name="NlScreenModeProvider" value="RENDER" />
+    <property name="NonModalCommitCustomization.IsApplied" value="true" />
+    <property name="NonModalCommitPromotionState" value="SHOWN" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="SAVED_ANDROID_NPW_LANGUAGE" value="Kotlin" />
+    <property name="SPLIT_EDITOR_MODE_/home/julio/Documents/android-studio/IF31/PAB1/F6Androidtrainingtextandscrolling01Okt2022/app/src/main/res/layout/activity_main.xml" value="SPLIT" />
+    <property name="SettingsSearchHistory" value="presen&#10;background&#10;backg&#10;tabs&#10;git" />
+    <property name="Source Code Editor With PreviewLayout" value="Editor only" />
+    <property name="TextEditorWithPreview.SplitterProportionKey" value="0.5060514" />
+    <property name="appcds.runOnSecondStart" value="AI-213.7172.25.2113.9014738-f2104441242bce54c9fe04cbacedf9c9827e1adf23de6c9a0fc1b24ed46086ff" />
+    <property name="ask.about.ctrl.y.shortcut.v2" value="true" />
+    <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="bundled.plugins.list.saved.version" value="AI-213.7172.25.2113.9014738" />
+    <property name="cn.yiiguxing.plugin.translate.version" value="3.3.5" />
+    <property name="com.developerphil.adbidea.previousversion" value="1.6.8" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Documents/android-studio/AndroidStudioSettings/settings.zip&#10;/home/julio/Documents/android-studio/AndroidStudioSettings&#10;/home/julio/Documents/android-studio/IF31/PAB1/F6Androidtrainingtextandscrolling01Okt2022&#10;/home/julio/Documents/android-studio/IF31&#10;/home/julio/Documents/vscode/Test" />
+    <property name="file.colors.enable.non.project" value="" />
+    <property name="file.colors.enable.tests" value="" />
+    <property name="file.gist.reindex.count" value="20" />
+    <property name="fileTypeChangedCounter" value="6" />
+    <property name="fileTypeDetectors" value="com.android.tools.idea.profilers.capture.MemoryCaptureFileType$Detector:com.android.tools.idea.sqlite.fileType.SqliteFileTypeDetector:com.intellij.ide.scratch.ScratchFileServiceImpl$Detector:com.jetbrains.cidr.lang.OCHeaderFileTypeDetector:org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector" />
+    <property name="got.it.tooltip.reader.mode.got.it" value="1" />
+    <property name="ide.updates.old.dirs.scan.scheduled" value="1665297211984" />
+    <property name="ide.updates.previous.build.number" value="AI-211.7628.21.2111.8309675" />
+    <property name="input.method.disabler.muted" value="true" />
+    <property name="installed.kotlin.plugin.version" value="213-1.7.10-release-for-android-studio-AS6777.52" />
+    <property name="io.flutter.analytics.toastShown" value="true" />
+    <property name="io.flutter.console.preferencesSet" value="true" />
+    <property name="lastSeenTip" value="Kotlin_Java_convert.html" />
+    <property name="lastTimeTipsWereShown" value="1664691124534" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/android-studio/AndroidStudioSettings/settings.zip" />
+    <property name="mt.autoReset" value="true" />
+    <property name="mt.showStatisticsAgreement" value="true" />
+    <property name="newly.installed.api.level" value="32" />
+    <property name="org.intellij.images.editor.actions.BackgroundImageDialog#recent" value="$USER_HOME$/Pictures/Wallpapers/01/q32n6qfryop51.jpg" />
+    <property name="registry.to.advanced.settings.migration.build" value="AI-213.7172.25.2113.9014738" />
+    <property name="seenTips" value="Kotlin_mix.html,Kotlin.html,Kotlin_Java_convert.html" />
+    <property name="selected.color.option.type" value="PRESENTATION_ASSISTANT_HINT_BACKGROUND" />
+    <property name="settings.code.style.selected.tab.JAVA" value="Arrangement" />
+    <property name="settings.code.style.selected.tab.Markdown" value="Tabs and Indents" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+  </component>
+  <component name="TerminalCommandHistoryManager">
+    <command-history-files>
+      <command-history-file filename="IF31-history" project-path="$USER_HOME$/Documents/android-studio/IF31" last-access-time="1664692969581" />
+    </command-history-files>
+  </component>
+</application>
