@@ -1,9 +1,9 @@
 <scheme name="_@user_One Dark Italic" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2022-10-02T15:20:11</property>
+    <property name="created">2022-10-02T14:56:11</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2021.3.1.16</property>
-    <property name="modified">2022-10-02T15:22:17</property>
+    <property name="modified">2022-10-02T15:00:29</property>
     <property name="originalScheme">One Dark Italic</property>
   </metaInfo>
   <colors>
@@ -1307,7 +1307,7 @@
         <option name="FOREGROUND" value="d19a66" />
       </value>
     </option>
-    <option name="KOTLIN_PACKAGE_FUNCTION_CALL" baseAttributes="DEFAULT_STATIC_METHOD" />
+    <option name="KOTLIN_PACKAGE_FUNCTION_CALL" baseAttributes="" />
     <option name="KOTLIN_SMART_CAST_RECEIVER">
       <value />
     </option>
@@ -1698,7 +1698,7 @@
         <option name="FOREGROUND" value="d19a66" />
       </value>
     </option>
-    <option name="PROPERTIES.KEY_VALUE_SEPARATOR" baseAttributes="DEFAULT_OPERATION_SIGN" />
+    <option name="PROPERTIES.KEY_VALUE_SEPARATOR" baseAttributes="" />
     <option name="PROPERTIES.VALID_STRING_ESCAPE">
       <value>
         <option name="FOREGROUND" value="56b6c2" />
